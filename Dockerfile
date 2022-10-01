@@ -1,4 +1,4 @@
-FROM centos:lates
-MAINTAINER krishna.prt@gmail.com
-RUN yum install -y httpd
- EXPOSE 80
+Welcome to te sdajkn huasd adhadsn
+uysdhajkl ds ugfdshajkc
+vdsjhakdj vbsknlm
+vfdhjskmdj b sk
